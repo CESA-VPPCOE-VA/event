@@ -78,6 +78,10 @@
     .home .slogan{
         font-size: 1.7rem;
     }
+    .home .wave{
+    height: 25rem;
+    background-size: 100rem 20rem;
+}
 }
 
 .home .fa-cog{
