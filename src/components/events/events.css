@@ -11,7 +11,7 @@
 }
 .events .row .image img{
     width: 45vw;
-    height: 30vh;
+    height: 55vh;
 }
 .events .row .content {
     text-align: left;
@@ -38,7 +38,7 @@
     }
     .events .row .image img{
         width: 100vw;
-        height:45vh;
+        height:30vh;
       
     }
     .events .row .content{
